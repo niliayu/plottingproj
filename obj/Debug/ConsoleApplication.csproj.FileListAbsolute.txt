@@ -1,0 +1,14 @@
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\mscorlib.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.pdb
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.xml
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\normidna.nlp
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\normnfc.nlp
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\normnfd.nlp
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\normnfkc.nlp
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\normnfkd.nlp
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
