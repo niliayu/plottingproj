@@ -15,3 +15,11 @@ C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleAppli
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.WindowsForms.dll
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.WindowsForms.pdb
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.Metadata.xml
