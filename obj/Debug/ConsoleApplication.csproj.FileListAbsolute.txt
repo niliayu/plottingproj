@@ -12,3 +12,6 @@ C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleAppli
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\OxyPlot.WindowsForms.xml
