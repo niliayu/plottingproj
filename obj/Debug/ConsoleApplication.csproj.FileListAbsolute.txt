@@ -23,3 +23,5 @@ C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleAppli
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.xml
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.AspNet.xml
 C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\CsvHelper.dll
+C:\Users\Ailin\Google Drive\Ailin's Work\Classes\buildings\hackcwru\ConsoleApplication\bin\Debug\CsvHelper.xml

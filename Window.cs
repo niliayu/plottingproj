@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Windows.Forms;
 using System.Drawing;
-using System.IO;
 using OxyPlot;
 using OxyPlot.Series;
 using OxyPlot.WindowsForms;
-
 
 // Creates base window for application, calls and refreshes graphs
 
@@ -113,28 +110,14 @@ namespace ConsoleApplication
             }
 
             if(timeVal != null && buildingSel != null)
-                run_python(timeVal, buildingSel);
+                RunPython.Run(timeVal, buildingSel);
+                livePlot();
         }
 
-        private void run_python(string delta, string building)
+        private void livePlot()
         {
-            ProcessStartInfo start = new ProcessStartInfo();
-            start.FileName = "python.exe";
-            string pyscript = "scrape_script.py";
-            string args = building + " " + delta;
-            start.Arguments = string.Format("{0} {1}", pyscript, args);
-            start.UseShellExecute = false;
-            start.RedirectStandardError = true;
-
-            Process pyprocess = new Process();
-            pyprocess.StartInfo = start;
-            pyprocess.Start();
-
-            using (StreamReader reader = pyprocess.StandardError)
-            {
-                string result = reader.ReadToEnd();
-                Console.Write(result);
-            }
+            CsvParser csv = new CsvParser();
+            csv.parse();
         }
     }
 }

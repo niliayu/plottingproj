@@ -147,6 +147,14 @@ def get_creds():
         split = cred.split(' ')
     return split[0], split[1]
 
+def temp_outputfile(filename):
+    try:
+        with open('temp.txt', 'w+') as file:
+            file.write(filename)
+            file.write('\n')
+    except:
+        pass
+
 
 def check_start(filename):
     try:
@@ -177,6 +185,7 @@ def main(bldg, rate):
         filename = str(starttime.year) + '_' + str(starttime.month) + '_' + str(starttime.day) + '_' + bldg.lower() + '.csv'
         check_start(filename)
         csv_write(row_entry, filename)
+        temp_outputfile(filename)
         time.sleep(rate)  # sleep for rate seconds
 
 
